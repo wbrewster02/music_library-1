@@ -1,0 +1,1 @@
+//put navigation here and export to artistview and albumview
